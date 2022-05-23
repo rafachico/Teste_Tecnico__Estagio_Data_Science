@@ -21,7 +21,7 @@ Para gerar o gráfico foi utilizado o "plotly", defini uma matriz 10x10 com os v
  - [Project Jupyter | Home](https://jupyter.org/)
 
 ### Executar
-O código foi escrito em Python pelo Jupyter Lab, assim para executar o arquivo [Teste_Tecnico_Semantix.ipynb](Teste_Tecnico_Semantix.ipynb) ele deve ser aberto no Jupyter, com o arquivo edges na mesma pasta. E assim "Executar todas as Células".
+O código foi escrito em Python pelo Jupyter Lab, assim para executar o arquivo [Teste_Tecnico_Semantix.ipynb](Teste_Tecnico_Semantix.ipynb) ele deve ser aberto no Jupyter, com o arquivo edges na mesma pasta. E assim "Executar todas as Células". Tempo de execução ~=15s.
 
 ### Referências 
 

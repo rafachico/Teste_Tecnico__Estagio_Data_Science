@@ -22,7 +22,7 @@ The core graph was generated using "plotly", a matrix(10x10) was defined with th
  - [Project Jupyter | Home](https://jupyter.org/)
 
 ### Build and Run
-The code was created with Python on Jupyter Lab, to execute it the file [Teste_Tecnico_Semantix.ipynb](Teste_Tecnico_Semantix.ipynb) should be open on Jupyter, the file edges need to be on the same foldes. After this just "Run all cells".
+The code was created with Python on Jupyter Lab, to execute it the file [Teste_Tecnico_Semantix.ipynb](Teste_Tecnico_Semantix.ipynb) should be open on Jupyter, the file edges need to be on the same foldes. After this just "Run all cells". Execution time ~=15s.
 
 ### References
 

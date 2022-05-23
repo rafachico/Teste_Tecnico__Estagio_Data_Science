@@ -1,2 +1,3 @@
 # Teste_Tecnico__Estagio_Data_Science
-Teste Técnico - Estágio Data Science
+### Technical Test Data Science Internship 
+The first step to solve the test was learning more about social network analysis. I visited the website of [Columbia University](https://www.publichealth.columbia.edu/research/population-health-methods/social-network-analysis#:~:text=Social%20Network%20analysis%20is%20the,,%20groups%20and/or%20organizations.) and [Science Direct](https://www.sciencedirect.com/topics/social-sciences/social-network-analysis). After this step I seached a little more about Closeness Centrality, that is defined as $C(x)=\frac{1}{\sum_{y}d(x,y)}$, and a normalized version can be interpreted as $C(x)=\frac{n-1}{\sum_{y}d(x,y)}$, where n= number of nodes.
